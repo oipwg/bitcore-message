@@ -1,6 +1,6 @@
 {
   "name": "flocore-message",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Flo Messages for Flocore",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
