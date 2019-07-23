@@ -1,6 +1,6 @@
 {
   "name": "flocore-message",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Flo Messages for Flocore",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
@@ -23,7 +23,7 @@
     "url": "https://github.com/oipwg/flocore-message.git"
   },
   "dependencies": {
-    "flocore-lib": "0.15.0"
+    "flocore-lib": "^0.15.2"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
